@@ -13,5 +13,5 @@ I am a Computer Science Engineering student specializing in AI/ML, focused on da
 - **DevOps & Ecosystem:** Git, GitHub, Linux
 
 ### 📊 Live GitHub Insights:
-![Harthik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harthik-L&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harthik-L&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
+![Harthik's GitHub Stats](https://github-stats-extended.vercel.app/api?username=Harthik-L&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Harthik-L&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
